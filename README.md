@@ -138,6 +138,13 @@ We will be using Anaconda, a Python distribution made specifically for data scie
 
 - **PC only.** Install [Git Bash](https://git-for-windows.github.io/)
 
+To test your installation, from the command line run:
+
+- `python --version`  
+    Should be Python 3.8.5.
+- `jupyter lab`   
+    Should display a lot of text and auto-open your web browser (when you want to exit, press Cmd+C).
+
 
 ---
 
