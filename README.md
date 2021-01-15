@@ -18,7 +18,7 @@ Welcome to the **Tech Excellence Data Science (TEDS) course** at General Assembl
 
 | Hours | Week 2 - Python (M-Th) | Week 3+ |
 | ----- | --------------- | ------- |
-| 9:30-12:30pm EST |  Morning Class Session | Morning Class Session | 
+| -12:30pm EST | 9:00am EST - Morning Class Session | 9:30am EST - Morning Class Session | 
 | 12:30-1:30pm EST | Lunch | Lunch |
 | 1:30-<br>(M-Th Only) | -4:00pm EST - Afternoon Class Session | -3:30pm EST - Office Hours |
 | 4:00-5:00pm EST<br>(M-Th Only) | Office Hours | |
