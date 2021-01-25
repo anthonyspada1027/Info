@@ -28,6 +28,7 @@ Welcome to the **Tech Excellence Data Science (TEDS) course** at General Assembl
 ## Weekly Schedule
 
 > We **highly recommend** that every student complete our [Python Ladder Challenges](https://git.generalassemb.ly/bah-teds3-2021/python-ladder-challenge).
+
 > **ISL:** James, Gareth et al. "An Introduction to Statistical Learning." [Free PDF](https://www.statlearning.com/)
 
 |         | Monday     | Tuesday    | Wednesday  | Thursday| Friday
